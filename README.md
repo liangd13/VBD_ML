@@ -1,4 +1,4 @@
-# xh_test
+# Explainable XGBoost Model and Nomogram for Predicting 90-Day Functional Outcome in Posterior Circulation Stroke with Vertebrobasilar Dolichoectasia: A Machine Learning-Based Retrospective Cohort Study
 
 ## Abstract
 Background: Vertebrobasilar dolichoectasia (VBD) is a rare but clinically significant vasculopathy that predisposes patients to posterior circulation ischemic stroke (PCIS) and is frequently associated with poor outcomes. Given the complex hemodynamics and multifactorial nature of VBD-related stroke, early identification of high-risk individuals remains challenging. This study aimed to develop and validate an interpretable machine learning (ML) model to predict in-hospital unfavorable outcomes in VBD-induced PCIS patients. <br>
