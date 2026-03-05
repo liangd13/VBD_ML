@@ -388,12 +388,12 @@ table_2 <- evaluate_dataset(fitted_models, test_data, "Testing Set")
 print(as.data.frame(table_1))
 print(as.data.frame(table_2))
 
-# base_path <- "C:/Users/无敌懒大王/Desktop/Project/R/Charls_001/Final_result/table/"
+# base_path <- "C:/Users/liuxuhui/Desktop/Project/R/Charls_001/Final_result/table/"
 # write.csv(x = table_1, 
-#           "C:/Users/无敌懒大王/Desktop/Project/R/Charls_001/Final_result/table/Training_Set_table.csv", 
+#           "C:/Users/liuxuhui/Desktop/Project/R/Charls_001/Final_result/table/Training_Set_table.csv", 
 #           row.names = FALSE)
 # write.csv(x = table_2, 
-#           "C:/Users/无敌懒大王/Desktop/Project/R/Charls_001/Final_result/table/Testing_Set_table.csv", 
+#           "C:/Users/liuxuhui/Desktop/Project/R/Charls_001/Final_result/table/Testing_Set_table.csv", 
 #           row.names = FALSE)
 
 # Plot Color Configuration -------------------------------------------------------
@@ -643,3 +643,4 @@ final_aligned_train <- generate_aligned_panel(fitted_models, train_data, "Traini
 
 print(final_aligned_test)
 print(final_aligned_train)
+
